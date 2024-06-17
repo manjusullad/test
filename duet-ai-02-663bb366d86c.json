@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "duet-ai-02",
+  "private_key_id": "663bb366d86c687a87990361482c9dafb34a4042",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2UkWPlXvv29Bk\nxylof69nPXUP3arjfGKlHqEfNzTMBu6KzxhB9jVtczHcBzPGHvvm2meMXmpfWfki\nbRe4kuppRxZMiZsWt3eTWs7ElIOMmGsM09zW7dj2l5ZibduGin5OO3/ObDAAF7zU\nvWkY72dkDjpcE0lrlJIktIliia7Zh8f8YrQCEraE6aCaXh5jKcT6RU2ol7PFvc8F\nNGRQrJeUlgmm+/v9Ti2ke8X3hRhtUT+zO2GSzLQnpZ9pdMBsUbat7+4hMJxm9Ufv\nIPtOn5PqOxVVQj6eyOhHeF4wkFOSaHNgM5IWI95x2zZrxDEg5dYY12Jua5H4z42e\nqsjWVCtrAgMBAAECggEACp1UlmzuB8Nk6REdTIuugxS1ZYSSx+a8eX+EguQ8ayp2\nJdezwldaufIMc5Jpxb2VDdYmVCpFCCMdWY8/Y8wN4K42UqNqR5LL3+TYB+Lbm8pd\n5SPKhirXyFd/9mAN+VHD07ssEDEFRGQdZsdWQJDjlJQteqHW0vAV6BQosXdxmhFv\no+2JQKiekF0O9jZZ7hKHIPAYv+EEt6V1Pjm2GLHMZLWq11y18CM7TS2phRG5ZmyW\npGytp7Tpuy6jO8B7YfCnx+1xb+uttz9nJC8qOdKyKe80t2DMX79Q+DGJHAPHBgQ6\nhDG1KZApSgVOlprvcavwxz6wofr4aVW2wiIMAGfpSQKBgQD/vvk8w2QoHRyc/a7F\nHJ2Comi7MSnPcqU4E2Kp+KNIgEZmap2Dvi861fRQrriXAOyPXruFKfvDjmcTd4fv\nYc2qpnJRZAZ7hr0aVcXqtkPMBL2U3t3OxSvvCefyVtrs83lYJZSaInfsk09hkfih\n4eQCpFQRYSzrSyLQgI7K5aDvwwKBgQC2gKEKrCfQqaVoCONFQL881/9ZIrzbHx6R\nh/r4NikbHSncIVOL8vT8GvxsrkNmRgyn8T6sT2qOs3QgomdBZX5lbW0VHbTFQ093\nqnG/tpcGwWbqEF+wl+omzBKy7xX7LrN9j7/JmtEGSZblD15koj99SwRZF3hCWe6e\nmYsO6xqDOQKBgGarfld8gYrxFPmZhj4vnLRDCxSLSiOz/MwkTCm8XaDPjnOzPYUU\nJtXR6wExA33rqwxrlZCCKEZ7trnD9NiPRQfLRn2SUF/q2aPm50uw3ErdZFaNmjJW\nSarvKSTK5ZzWqdJPU/cE+2wIP4gGF/C1RNoiqnVHs8bKJTHbSnf987wNAoGATSUs\nbe192xeLIuH26BRJgnevqcckW9/YtR3s+bUzRRHb2wB/Z34pDtR9dZdoSDg+K1Ov\n8XiUi4PSB+V+jkdP2aIa5T0sZ+JfGi+Da83MI3/nd/O571UYFpRXJyoneYkxOFdm\nc9sslmLPFT6c4R8whU8LpHlmTW3kj0hKXuEE0QkCgYAQOY0VbmXy2eY+TrfjMrmy\nfGO+78f4gZVRu5Gc2LXlJrVNE5O7gvihjIAPYTS2g1zj/tS7aZdTlDlJvRrsM94E\n5NwELu63vE+VYG5hVn8FNz+5swPtg8caiRziuDVWaV5vMOveY3927oHGlH0NRxAr\nejlhOwUQILpeLeYLUrTJ4g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-github-svc@duet-ai-02.iam.gserviceaccount.com",
+  "client_id": "100315590306755407173",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-github-svc%40duet-ai-02.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
